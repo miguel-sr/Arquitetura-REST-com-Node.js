@@ -1,0 +1,16 @@
+{
+  "name": "arquitetura-rest-com-node",
+  "version": "1.0.0",
+  "description": "Microserviço: Arquitetura REST utilizando Node.js",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./index.js"
+  },
+  "author": "Miguel S. Ramos",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  }
+}
